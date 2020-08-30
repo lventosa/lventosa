@@ -2,5 +2,5 @@
 
 📚 Mathematics undergraduate student and Economics graduate
 
-📌 Always learning more about computational statistics
+📌 Interested in/working on computational statistics
 
