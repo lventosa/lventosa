@@ -2,5 +2,6 @@
 
 📚 Mathematics undergraduate student and Economics graduate
 
-📌 Interested in/working on computational statistics
+📈 Data analyst 
 
+📌 Interested in computational statistics
