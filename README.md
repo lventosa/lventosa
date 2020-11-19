@@ -4,6 +4,6 @@
 
 📚 Mathematics undergraduate student and Economics graduate
 
-📈 Data analyst 
+📈 Working part-time as a data analyst 
 
-📌 Interested in computational statistics
+🤩 Interested in computational statistics
