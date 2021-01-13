@@ -6,4 +6,4 @@
 
 📊 Working part-time as a data analyst 
 
-🤩 Interested in computational statistics
+💡 Interested in computational statistics
