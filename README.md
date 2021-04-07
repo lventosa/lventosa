@@ -4,4 +4,4 @@
 
 📚 Mathematics undergraduate student and Economics graduate
 
-💡 Interested in computational statistics
+💡 Current interests: Julia, Stochastic Processes and (Computational) Statistics at large
