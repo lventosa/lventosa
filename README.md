@@ -6,4 +6,4 @@
 
 🖥️ Currently working as a data scientist doing predictive analytics
 
-💡 Current interests: Julia, topological data analysis, stochastic processes and (computational) statistics at large
+💡 Current interests: Julia (programming language), topological data analysis, stochastic processes and (computational) statistics at large
