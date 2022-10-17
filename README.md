@@ -1,4 +1,4 @@
-### Hey, I'm Laura! 👋 🤗
+### Hey, I'm Laura (she/her)! 👋 🤗
 
 **A little bit about me:**
 
