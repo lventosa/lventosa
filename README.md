@@ -2,9 +2,9 @@
 
 **A little bit about me:**
 
-📚 B.Sc. Economics now working towards a B.Sc. Mathematics with a minor in Statistics.
+📚 B.Sc. Economics currently working towards a B.Sc. Mathematics with a minor in Statistics.
 
-🖥️ Product Data Scientist with a strong interest in MLOps practices and the design of ML systems.
+🖥️ Product Data Scientist passionate about the whole ML cycle and the design of ML systems.
 
 🌱 Taking part in several initiatives that aim at making science and technology more diverse and inclusive spaces.
 
