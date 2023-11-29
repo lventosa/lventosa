@@ -8,4 +8,4 @@
 
 🌱 Taking part in several initiatives that aim at making science and technology more diverse and inclusive spaces.
 
-✨ Free time spent podcast bingeing, reading, running and dancing.
+✨ Free time spent podcast bingeing, reading, running and doing pilates.
