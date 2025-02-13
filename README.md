@@ -4,8 +4,8 @@
 
 📚 B.Sc. Economics and B.Sc. Mathematics with a minor in Statistics.
 
-🖥️ 3+ year experience as a data scientist developing Machine Learning software now working as a software engineer.
+🖥️ 3+ year experience as a data scientist developing machine learning software now working as a full stack software engineer.
 
 🌱 Taking part in several initiatives that aim at making science and technology more diverse and inclusive spaces.
 
-✨ Free time spent podcast bingeing, reading, running and doing pilates.
+✨ Free time spent reading, podcast bingeing or at the gym.
